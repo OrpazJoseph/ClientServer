@@ -11,4 +11,4 @@ The project includes:
 * Tcp Server
 * Multithreaded Architecture
 * Sockets
-* Various design patterns
+* Design patterns
